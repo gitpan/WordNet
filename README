@@ -1,0 +1,21 @@
+WordNet perl module
+-------------------
+
+Allows an easy perl interface to the WordNet system.  You must already
+have the WordNet system (http://www.cogsci.princeton.edu/~wn/obtain/)
+to use this module
+
+INSTALL
+-------
+
+Place the module, WordNet.pm in a place where perl can find it.  See
+the pod documentation (perldoc WordNet.pm) for more information.
+
+COPYRIGHT
+---------
+
+Copyright 1999 Jason Rennie <jrennie@mitre.org>  All rights reserved.
+
+This module is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.
+
